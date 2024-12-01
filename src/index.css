@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: var(--color-slate-100, rgba(228, 244, 253, 1));
+  font-family: "Plus Jakarta Sans";
+}
